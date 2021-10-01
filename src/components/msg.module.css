@@ -1,0 +1,11 @@
+.err{
+    height:30px;
+    width: 90%;
+    padding: 2px 10px;
+    color:black;
+    content:"F0rm is not filled correctly";
+    background-color: rgba(255, 0, 0, 0.507);
+    border:2 px solid red;
+}
+ 
+
