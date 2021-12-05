@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/signup-form/static/css/main.e343bf7e.chunk.css",
+    "main.js": "/signup-form/static/js/main.2797d74d.chunk.js",
+    "main.js.map": "/signup-form/static/js/main.2797d74d.chunk.js.map",
+    "runtime-main.js": "/signup-form/static/js/runtime-main.331f89cd.js",
+    "runtime-main.js.map": "/signup-form/static/js/runtime-main.331f89cd.js.map",
+    "static/css/2.30fbed10.chunk.css": "/signup-form/static/css/2.30fbed10.chunk.css",
+    "static/js/2.03feaef9.chunk.js": "/signup-form/static/js/2.03feaef9.chunk.js",
+    "static/js/2.03feaef9.chunk.js.map": "/signup-form/static/js/2.03feaef9.chunk.js.map",
+    "static/js/3.b50395ab.chunk.js": "/signup-form/static/js/3.b50395ab.chunk.js",
+    "static/js/3.b50395ab.chunk.js.map": "/signup-form/static/js/3.b50395ab.chunk.js.map",
+    "index.html": "/signup-form/index.html",
+    "static/css/2.30fbed10.chunk.css.map": "/signup-form/static/css/2.30fbed10.chunk.css.map",
+    "static/css/main.e343bf7e.chunk.css.map": "/signup-form/static/css/main.e343bf7e.chunk.css.map",
+    "static/js/2.03feaef9.chunk.js.LICENSE.txt": "/signup-form/static/js/2.03feaef9.chunk.js.LICENSE.txt",
+    "static/media/lgbtq.30738282.jpeg": "/signup-form/static/media/lgbtq.30738282.jpeg",
+    "static/media/man.b43d61ea.png": "/signup-form/static/media/man.b43d61ea.png",
+    "static/media/unknown.8fbcd47c.jfif": "/signup-form/static/media/unknown.8fbcd47c.jfif",
+    "static/media/woman.08429180.png": "/signup-form/static/media/woman.08429180.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.331f89cd.js",
+    "static/css/2.30fbed10.chunk.css",
+    "static/js/2.03feaef9.chunk.js",
+    "static/css/main.e343bf7e.chunk.css",
+    "static/js/main.2797d74d.chunk.js"
+  ]
+}
